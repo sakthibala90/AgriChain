@@ -1,0 +1,70 @@
+Manual test Case for basic Html form submission and validate result.
+
+Browse this Url "https://testpages.eviltester.com/styled/html5-form-test.html"
+
+Test scenario for verify Basic form Html Page and Result Page after submit in basic form page it checks the result.
+
+1..
+Submit Form with All Valid Inputs
+
+Test Case: Submit all the details in this page
+Steps: Fill in all fields with valid data and click Submit.
+
+Expected Result: 
+Form submits successfully, and a results page is shown.
+Result page is displayed with all submitted input.
+
+2..
+
+Test case : Validate Text Field Input (Name)
+Steps: Enter alphabetic characters in Text field and click submit.
+
+Expected Result: Accepted and submitted properly.
+Text Value is displayed in result page
+
+3..
+ Test Case:
+ Validate Checkboxes and click submit.
+steps: 
+Select one or more checkboxes.
+
+Expected Result: 
+Selected values submitted and shown on results page.
+selected value on this checkbox is mentioned in result page with unique name.
+
+4..
+
+Test Case: 
+Validate Radio Button
+steps: 
+Select one or more radio button and click submit button.
+selected radio button name is shown on the result page.
+
+
+Expected Result: 
+Last Selected values submitted and shown on results page.
+
+
+
+5..
+
+Test Case: 
+Validate Cancel Button
+steps: 
+Select cancel button.
+
+Expected Result:
+ values stored before are leave on this page.
+
+6.
+
+Test Case:
+ Validate Submit Button
+steps:
+ Select Submit button.
+
+Expected Result: 
+It redirected to result Page
+
+
+
